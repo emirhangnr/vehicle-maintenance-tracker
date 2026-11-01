@@ -343,7 +343,9 @@ Geçmişi temizlemek **tek başına yeterli değildir.** Sıra:
    - Pull request opened → `In Progress`
    - Issue closed → `Done`
 5. Etiketler oluşturulacak: `development`, `git`, `testing`, `ci-cd`, `docker`, `cloud`, `docs`
-6. Proje URL'si not edilecek — 8 hafta boyunca **aynı link** teslim edilecek
+6. Haftalık milestone'lar oluşturulacak (`Hafta 1` … `Hafta 8`, bitiş tarihi haftanın pazarı);
+   her issue kendi haftasının milestone'una bağlanacak
+7. Proje URL'si not edilecek — 8 hafta boyunca **aynı link** teslim edilecek
 
 ### 8.2 Kart (issue) şablonu
 
@@ -559,3 +561,4 @@ CI/CD Pipeline     : https://github.com/<kullanici>/vehicle-maintenance-tracker/
 | 2026-10-31 | Lint aracı yok (sadece pytest + coverage) | Üçüncü taraf araç eklenmedi |
 | 2026-10-31 | PWA kapsam dışı | Rubrikte yok, puan getirmiyor |
 | 2026-10-31 | Bonus teknolojiler ertelendi | Önce zorunlu maddeler |
+| 2026-11-01 | Haftalık GitHub milestone'ları | Haftalık sunum ve snapshot'larda ilerlemeyi gruplar, CSV export'ta hafta bilgisi kalır |
