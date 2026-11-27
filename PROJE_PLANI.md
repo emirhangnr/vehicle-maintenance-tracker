@@ -562,3 +562,4 @@ CI/CD Pipeline     : https://github.com/<kullanici>/vehicle-maintenance-tracker/
 | 2026-10-31 | PWA kapsam dışı | Rubrikte yok, puan getirmiyor |
 | 2026-10-31 | Bonus teknolojiler ertelendi | Önce zorunlu maddeler |
 | 2026-11-01 | Haftalık GitHub milestone'ları | Haftalık sunum ve snapshot'larda ilerlemeyi gruplar, CSV export'ta hafta bilgisi kalır |
+| 2026-11-27 | Hatırlatmada araç + bakım tipi başına yalnızca en son kayıt dikkate alınır | Yeni bakım girildiğinde eski kaydın hatırlatması düşer; ayrı "tamamlandı" alanı gerekmez |
